@@ -1,0 +1,9 @@
+info:
+  contact: {}
+paths:
+  /:
+    get:
+      description: get string by ID
+      responses: {}
+      summary: Show an account
+swagger: "2.0"
